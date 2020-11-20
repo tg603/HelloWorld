@@ -1,2 +1,3 @@
 # HelloWorld
-Start up 
+Hello,
+This is where I'll be holding my code.
